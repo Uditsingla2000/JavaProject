@@ -1,7 +1,7 @@
 // MADE BY - VINAYAK CHACHRA
 // ROLLNO. - 191210061
 
-
+//vinayak
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
